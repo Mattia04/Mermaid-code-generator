@@ -1,5 +1,5 @@
 # Root directory for generating the tree
-dir_path = "/Users/mattiaballico/Documents/Programmazione/Universita/Labo_2_Anno_ottica"  # Default: Current directory
+dir_path = "./"  # Default: Current directory
 
 # Styles for file extensions
 extension_styles = {
